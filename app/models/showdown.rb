@@ -1,0 +1,2 @@
+class Showdown < ApplicationRecord
+end
